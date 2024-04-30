@@ -32,7 +32,6 @@ const layouts = {
 }
 const mockslug = 'best-crm-for-startups-2024'
 
-
 export async function generateMetadata({
   params,
 }: {
